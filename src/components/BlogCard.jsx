@@ -1,5 +1,4 @@
 import React from "react";
-// import "../css/card.css";
 import { NavLink } from "react-router-dom";
 
 const BlogCard = ({ id, title, image, date, author, category }) => {
